@@ -56,11 +56,7 @@ Universities faced challenges in:
 - Scalable system suitable for multi-department universities  
 
 ---
-
-## Screenshots / Demo
-> ![Dashboard](screenshots/dashboard.png)  
-> *Placeholder for system dashboard screenshot*
-
+ 
 ---
 
 ## Note on Source Code
