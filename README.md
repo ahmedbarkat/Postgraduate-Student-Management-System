@@ -37,9 +37,7 @@ Universities faced challenges in:
 - **Deployment:** Windows Server / IIS  
 - **Reporting & Analytics:** SQL Server Reporting Services (SSRS) or custom dashboards  
 
-> ![Architecture Diagram](diagrams/architecture.png)  
-> *Placeholder for system architecture diagram*
-
+ 
 ---
 
 ## Key Achievements
