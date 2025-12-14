@@ -73,5 +73,5 @@ Source code is proprietary; architecture, workflows, and system design can be di
 
 ## Contact
 📧 ahmedbarakatsamra@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/ahmed-barakat-dev)  
-🔗 [GitHub](https://github.com/ahmedbarakat)
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-barakat-8b7b9922/)  
+🔗 [GitHub](https://github.com/ahmedbarkat)
